@@ -31,6 +31,7 @@ public class SignUpPageObjects {
 
 	  return driver.findElement(selectJobTitle);
 	 }
+	 //add
 	 public WebElement Email() {
 
 		  return driver.findElement(Email);
