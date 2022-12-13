@@ -6,7 +6,8 @@ import org.openqa.selenium.WebElement;
 
 public class LognInPageObjects {
 	// this is demo line for github
-	
+	//added1
+	//added2
 	 public WebDriver driver; // This driver dont have scope
 
 	 private By username = By.xpath("//input[@id='username']");
